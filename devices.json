@@ -12,5 +12,12 @@
         "codename": "RMX1801",
         "latest_version": "Android 11",
         "maintainer_name": "Aditya Singh"
+    },
+    {
+        "name": "Redmi Note 7 Pro",
+        "brand": "Xiaomi",
+        "codename": "violet",
+        "latest_version": "Android 11",
+        "maintainer_name": "raghavt20"
     }
 ]
