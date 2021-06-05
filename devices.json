@@ -5,5 +5,12 @@
         "codename": "lancelot",
         "latest_version": "Android 11",
         "maintainer_name": "Jamie Ho"
+    },
+    {
+        "name": "Realme 2 Pro",
+        "brand": "OPPO",
+        "codename": "RMX1801",
+        "latest_version": "Android 11",
+        "maintainer_name": "Aditya Singh"
     }
 ]
