@@ -19,5 +19,12 @@
         "codename": "violet",
         "latest_version": "Android 11",
         "maintainer_name": "raghavt20"
+    },
+    {
+        "name": "Redmi Note K20 Pro/Mi 9T Pro",
+        "brand": "Xiaomi",
+        "codename": "raphael",
+        "latest_version": "Android 11",
+        "maintainer_name": "Pavan Parmeshwar"
     }
 ]
