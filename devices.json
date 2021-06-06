@@ -1,5 +1,12 @@
 [
     {
+        "name": "Lenovo Z5s",
+        "brand": "Lenovo",
+        "codename": "jd2019",
+        "latest_version": "Android 11",
+        "maintainer_name": "victor10520"
+    },
+    {
         "name": "Redmi 9",
         "brand": "Xiaomi",
         "codename": "lancelot",
