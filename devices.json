@@ -33,5 +33,12 @@
         "codename": "raphael",
         "latest_version": "Android 11",
         "maintainer_name": "Pavan Parmeshwar"
+    },
+    {
+        "name": "Redmi Note 7",
+        "brand": "Xiaomi",
+        "codename": "lavender",
+        "latest_version": "Android 11",
+        "maintainer_name": "z3nitsu"
     }
 ]
